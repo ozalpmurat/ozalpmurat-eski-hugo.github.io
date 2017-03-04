@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Murat Özalp</title>
-    <link>http://ozalpmurat.github.io/index.xml</link>
-    <description>Recent content on Murat Özalp</description>
+    <title>Hugo on Murat Özalp</title>
+    <link>http://ozalpmurat.github.io/tags/hugo/index.xml</link>
+    <description>Recent content in Hugo on Murat Özalp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-TR</language>
-    <lastBuildDate>Sat, 04 Mar 2017 19:26:05 +0300</lastBuildDate>
-    <atom:link href="http://ozalpmurat.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>ikinci yazi</title>
-      <link>http://ozalpmurat.github.io/post/ikinci-yazi/</link>
-      <pubDate>Sat, 04 Mar 2017 19:26:05 +0300</pubDate>
-      
-      <guid>http://ozalpmurat.github.io/post/ikinci-yazi/</guid>
-      <description>&lt;p&gt;24 Şubat 2017 Ağ Güvenliği dersi&lt;/p&gt;
-
-&lt;p&gt;Ders bilgisayar ağları lab’da saat 09:00’da başlayacaktır. Bilgisayarlarınızı getiriniz.
-Bilgisayarda istenen özellikler:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Virtualbox kurulu olacak. Sanal bilgisayarların network ayarlarını derste beraber yapacağız. Sanal bilgisayarlar için 64 bit tercih sebebidir. Olmuyorsa, uğraşmayın 32 bit te uygundur.
-PfSense ISO dosyası hazır olacak (derste beraber kuracağız)
-Kali Linux virtualbox’ta kurulu olacak.
-Ubuntu desktop virtualbox’ta kurulu olacak.
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
+    <atom:link href="http://ozalpmurat.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GitHub.io üzerinde Hugo ile statik web sitesi</title>
