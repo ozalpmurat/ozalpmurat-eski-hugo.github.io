@@ -42,6 +42,14 @@ Ubuntu desktop virtualbox’ta kurulu olacak.
 
 &lt;p&gt;Üstteki sayfada atlanan bir yer var. SSH key generate edip te bunu da Github&amp;rsquo;a eklemezsek, &amp;ldquo;permission denied&amp;rdquo; veriyor. Başka türlü yapınca da üstteki blog yazısı çalışmıyor.&lt;/p&gt;
 
+&lt;h2 id=&#34;go-template-özelleştirilmesi&#34;&gt;Go template özelleştirilmesi&lt;/h2&gt;
+
+&lt;p&gt;Şurada güzel yazmış: &lt;a href=&#34;http://themes.gohugo.io/theme/light-hugo/post/goisforlovers/&#34;&gt;http://themes.gohugo.io/theme/light-hugo/post/goisforlovers/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;light-hugo-theme-özelleştirilmesi&#34;&gt;light-hugo theme özelleştirilmesi&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tblyler/light-hugo&#34;&gt;https://github.com/tblyler/light-hugo&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;ilave-okumalar&#34;&gt;İlave okumalar:&lt;/h2&gt;
 
 &lt;ul&gt;
